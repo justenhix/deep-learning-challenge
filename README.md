@@ -33,3 +33,6 @@ What steps did you take in your attempts to increase model performance?
 Adding 2 hidden layers increase the accuracy to just under 75%.
 
 Summary: Summarize the overall results of the deep learning model. Include a recommendation for how a different model could solve this classification problem, and then explain your recommendation.
+
+This model's accuracy is low considering I used two hidden layers.  I could increase the hidden layers to 3 and epochs to 100 to increase accuracy.  
+
